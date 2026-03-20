@@ -1,0 +1,4 @@
+dataset/
+*.pth
+*.pyc
+__pycache__/
